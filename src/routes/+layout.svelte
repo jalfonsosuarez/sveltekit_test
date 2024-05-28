@@ -4,7 +4,7 @@
 			<h4>Sveltekit</h4>
 			<ul class="navbar-nav">
 				<li class="nav-item">
-					<a class="nav-link active" href="/">Home</a>
+					<a class="nav-link active" href="/">Personas</a>
 				</li>
 				<li class="nav-item">
 					<a class="nav-link active" href="/opcion1">Opcion 1</a>
@@ -17,7 +17,7 @@
 	</div>
 </nav>
 
-<footer class="footer"><p>Esto es el pie</p></footer>
+<footer class="footer"><p class="ms-5 align-bottom">Esto es el pie</p></footer>
 <slot />
 
 <style>

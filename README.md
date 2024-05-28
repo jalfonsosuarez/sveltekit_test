@@ -21,11 +21,19 @@ My personal roadmap to test and learning is:
 
 #2024-05-28
 
-- Part 2, bootstrap instaled.
+- Part 2
+  - bootstrap instaled.
   - Nav menu create with 3 pages.
   - First intent to create a footer.
+  - Create a table.
   - Static backdrop modal ready.
   - Project upload to GitHub.
+  - Change titles.
+  - Add some buttons.
+  - Add bootstrap icons library.
+  - Add icon to buttons.
+  - Add some styles to table.
+  - Add some styles to footer.
   - Upload this README.
 
 ## To start project in dev mode
