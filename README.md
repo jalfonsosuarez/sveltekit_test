@@ -1,38 +1,37 @@
-# create-svelte
+## Testing SvelteKit
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
+This is my first contact with Svelte/SvelteKit.
 
-## Creating a project
+My personal roadmap to test and learning is:
 
-If you're seeing this, you've probably already done this step. Congrats!
+1. Learn how initiate new project.
+2. Learn how use bootstrap with this and upload to GitHub.
+3. Build the structure from CRUD app.
+4. Apply styles.
+5. Connect with a REST API to data persistence.
+6. Test the complete application.
+7. Celebrate that everything works correctly.
+8. Make the project public.
 
-```bash
-# create a new project in the current directory
-npm create svelte@latest
+## History
 
-# create a new project in my-app
-npm create svelte@latest my-app
-```
+#2024-05-27
 
-## Developing
+- Part 1 ready.
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+#2024-05-28
 
-```bash
-npm run dev
+- Part 2, bootstrap instaled.
+  - Nav menu create with 3 pages.
+  - First intent to create a footer.
+  - Static backdrop modal ready.
+  - Project upload to GitHub.
+  - Upload this README.
 
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
+## To start project in dev mode
 
-## Building
-
-To create a production version of your app:
-
-```bash
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+1. Fork or dowload it.
+2. Into a project folder, execute to install node modules:
+   `npm i`
+3. To start project, type
+   `npm run dev` or `npm run dev -- --open`
