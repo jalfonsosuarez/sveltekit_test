@@ -22,6 +22,7 @@ My personal roadmap to test and learning is:
 #2024-05-28
 
 - Part 2
+
   - bootstrap instaled.
   - Nav menu create with 3 pages.
   - First intent to create a footer.
@@ -36,10 +37,14 @@ My personal roadmap to test and learning is:
   - Add some styles to footer.
   - Upload this README.
 
+  #2024-05-29
+
+  - Today I can't work in project :(
+
 ## To start project in dev mode
 
 1. Fork or dowload it.
-2. Into a project folder, execute to install node modules:
+2. Into project folder, execute to install node modules:
    `npm i`
 3. To start project, type
    `npm run dev` or `npm run dev -- --open`
